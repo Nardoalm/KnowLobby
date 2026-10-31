@@ -1,0 +1,11 @@
+database:
+  type: "POSTGRESQL"
+  host: "localhost"
+  port: 5432
+  database: "knowlobby"
+  username: "knowuser"
+  password: "knowpassword"
+  pool:
+    maximum-pool-size: 10
+    minimum-idle: 5
+    connection-timeout: 30000

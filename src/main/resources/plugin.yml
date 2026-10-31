@@ -1,0 +1,4 @@
+author: KnowPlugins Development
+main: com.knowplugins.lobby.KnowLobby
+version: 0.0.1
+depend: [ ProtocolLib ]
